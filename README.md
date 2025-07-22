@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/stacks-network/docs)](/LICENSE))
+[![License](https://img.shields.io/github/license/stacks-network/docs)](https://github.com/stacks-network/docs/blob/master/LICENSE)
 
 # Start Here
 
